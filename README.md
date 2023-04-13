@@ -10,7 +10,7 @@ Having now grabbed these values I make my functions to the corresponding values 
 I also include the volume count as it was reading down the ticker to tally the sum of the volume until hitting a new ticker symbol
 I did not see it specifically mention that we needed to color code the yearly change but since it was on the example I made a quick function
 I set it up for the range to follow down the yearly change column if it was more than zero it would fill in green if less it would fill in red
-Next I input functions to fill in the columns of I,J,K, and L
+Next I input functions to fill in the columns of I, J, K, and L
 I also made sure that each row would have the correct values and worked on the second part of the assignment
 Now that I had the column set up for the changes yearly and percent
 I created a new VBA code for comparing the results and finding the highest % increase, lowest % decrease, and greatest total volume
